@@ -1,7 +1,7 @@
 {
-    "title": "HoI4 GFX Search",
+    "title": "Rise of Nations Redux GFX Search",
     "template_path": "index.template",
-    "favicon": "rt56_icon.png",
+    "favicon": "ron_icon.png",
     "replace_date": true,
     "convert_images": true,
     "sections": {

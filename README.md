@@ -1,19 +1,13 @@
-# HoI4 GFX Search
+# Rise of Nations Redux
 
-This tool helps you easily find GFX from unmodded (vanilla) Hearts of Iron 4 1.15.
-
-All images are © Copyright Paradox Development Studio. Hearts of Iron® is a registered trademark of Paradox Interactive. This tool is not affiliated in any way with Paradox Development Studio or Paradox Interactive.
+This tool helps you easily find GFX from Rise of Nations Redux
 
 Made by Yard1
+
+Repurposed for Rise of Nations by Xaelor
 
 Inspired by https://wyandotte.github.io/hoi4-icon-search/
 
 Search icon from https://feathericons.com/
 
 Uses Skeleton CSS from http://getskeleton.com/ under MIT license & some styles from https://clipboardjs.com/
-
-Thanks to Gaboemi and Zankoas for help updating to HoI4 1.10 and 1.11.
-
-Thanks to JPG for help updating to HoI4 1.12, 1.13, 1.15 and 1.16.
-
-Thanks to hildagrim for help updating to HoI4 1.14.
